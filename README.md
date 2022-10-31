@@ -1,4 +1,4 @@
-[![image]()]
+![badge_Alura](https://github.com/louGastardi/louGastardi/blob/main/Badge_Alura_B2B_Sharer.png)
 
 
 - 😄 Pronouns: she/her
